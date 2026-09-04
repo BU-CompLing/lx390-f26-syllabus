@@ -14,7 +14,7 @@ We begin the course by looking at writing samples and discussing what makes them
 
 9/9–11
 : <span>Writing Sample</span>{:.label.label-yellow} Jefferson et al. (1776)
-: <span>Writing Sample</span>{:.label.label-yellow} Putin (2024)
+: <span>Writing Sample</span>{:.label.label-yellow} Putin (2022)
 : <span>Writing Sample</span>{:.label.label-yellow} Piantadosi (2024) 
 : <span>Writing Sample</span>{:.label.label-yellow} Chesi (2024)
 : <span>Writing Sample</span>{:.label.label-yellow} Hao (2025)
