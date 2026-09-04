@@ -1,21 +1,21 @@
 ---
-title: Weeks 5–7
+title: Weeks 5–6
 ---
 
-### Strings, Text, and Markup
+### What Is Science?
 
-We learn how orthographic characters, text documents, and text formatting are represented in computers.
-
-Reading
-: <span>Textbook</span>{:.label.label-yellow} [Chapters 3]({{ '/book/book_chapter3' | relative_url }}) and [4]({{ '/book/book_chapter4' | relative_url }})
+Most academic papers are meant to _solve puzzles_ defined by the discipline's _paradigm_. Noam Chomsky's _generativist_ paradigm requires papers to state claims about the content of linguistic competence and defend those claims _inductively_ and _abductively_. Generativism places great emphasis on _explaining_ data measured using idealized judgements of grammaticality, and we will examine how _pragmatics_ determines what constitutes a "good" explanation.
 
 
-9/28
-: <span>HW 1 due</span>{:.label.label-blue}
+9/28–10/2
+: <span>Theory</span>{:.label.label-yellow} Macaulay (2011), Excerpt
+: <span>Theory</span>{:.label.label-yellow} Kuhn (1962), Chapters 2–4
+: <span>Theory</span>{:.label.label-yellow}  Chomsky (1965), Section 1.4
+
+10/5–9
+: <span>Theory</span>{:.label.label-yellow} van Fraassen (1980), Section 5.4
 
 10/7
 : <span>BU Deadline</span>{:.label.label-red} Last day to drop courses (without a "W" grade)
 
-10/12
-: Class will be held on 10/13 instead (Indigenous People's Day)
-: <span>HW 2 released</span>{:.label.label-green}
+

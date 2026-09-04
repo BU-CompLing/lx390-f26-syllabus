@@ -8,7 +8,7 @@ nav_order: 3
 # Course Policies
 
 ## Collaboration
-Collaboration is strongly encouraged, both in this course and in the profession of computational linguistics. You may discuss the homework assignments and final project with anyone enrolled in this course at any time during the semester as long as you give them proper attribution, but you must ultimately complete and write up all assigned work for yourself. Specific instructions for giving attribution to your collaborators will be provided in each coursework item.
+Collaboration is strongly encouraged, both in this course and in the academic profession. You may discuss coursework with anyone enrolled in this course at any time during the semester as long as you give them proper attribution, but you must ultimately complete and write up all assigned work for yourself. Specific instructions for giving attribution to your collaborators will be provided in each coursework item.
 
 ## Academic Integrity
 All BU students are expected to maintain high standards of academic honesty and integrity. It is your responsibility to be familiar with the [CAS](https://www.bu.edu/academics/policies/academic-conduct-code/) or [GRS](https://www.bu.edu/cas/academics/phd-and-mfa-academics/academic-policies-and-conduct-code/) Academic Conduct Code, which describes the ethical standards to which BU students are expected to adhere and students’ rights and responsibilities as members of BU’s learning community. All instances of cheating, plagiarism, and other forms of academic misconduct will be addressed in accordance with this policy. Penalties for academic misconduct can range from failing an assignment or course to suspension or expulsion from the university. 
