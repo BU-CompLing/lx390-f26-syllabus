@@ -8,8 +8,9 @@ We will critique and analyze writing samples from the class and the broader lite
 
 11/16–23
 : <span>Writing Sample</span>{:.label.label-yellow} Papers of students who volunteer to be reviewed in class
-<!-- 11/23 -->
-<!-- : <span>HW 3 due</span>{:.label.label-blue} -->
+
+11/23
+: <span>Peer Review 2 Due</span>{:.label.label-red}
 
 11/25–27
 : <span>Holiday</span>{:.label.label-red} No class (Thanksgiving)

@@ -11,6 +11,8 @@ We will critique and analyze writing samples from the class and the broader lite
 : <span>Holiday</span>{:.label.label-red} Class will be held on 10/13 instead (Indigenous People's Day)
 <!-- : <span>HW 2 released</span>{:.label.label-green} -->
 
+10/13
+: <span>Peer Review 1 Released</span>{:.label.label-green} on Blackboard
 
 10/13–16
 : <span>Theory</span>{:.label.label-yellow} Williams and Bizup (2015), Chapters 6–7

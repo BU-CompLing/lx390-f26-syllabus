@@ -43,7 +43,7 @@ You will receive a final _raw grade_ out of 100 points, calculated as follows.
 | -------------------------- | -------- | ----- | ------- |
 | Participation              |          |       | 10      |
 | Paper Presentation         |          |       | 20      |
-| Peer Review 1 (Conceptual) | 10/12    | 10/26 | 20      |
+| Peer Review 1 (Conceptual) | 10/13    | 10/28 | 20      |
 | Peer Review 2 (Mechanical) | 11/9     | 11/23 | 20      |
 | Final Paper                | 12/14    | 12/18 | 30      |
 | **Total**                  |          |       | **100** |

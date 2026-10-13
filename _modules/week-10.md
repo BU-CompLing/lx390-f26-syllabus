@@ -15,6 +15,6 @@ Readers' ability to understand a piece of writing is constrained by psycholingui
 : <span>BU Deadline</span>{:.label.label-red} Pass/fail deadline
 : <span>BU Deadline</span>{:.label.label-red} Last day to drop courses (with a "W" grade)
 
-<!-- 11/9 -->
-<!-- : <span>HW 3 released</span>{:.label.label-green} -->
+11/9
+: <span>Peer Review 2 Released</span>{:.label.label-green}
 
